@@ -3,7 +3,7 @@
 ## Introduction
 This project is part of the Data Science & Analytics Internship tasks. The main purpose of this task is to understand the basics of data analysis and data visualization using Python. The Iris dataset was used to explore different flower species and analyze relationships between their features.
 
----
+
 
 ## Objective
 The objective of this project is to:
@@ -13,7 +13,7 @@ The objective of this project is to:
 - Visualize relationships and distributions of variables
 - Identify patterns, variations, and possible outliers in the data
 
----
+
 
 ## Dataset Description
 The Iris dataset is one of the most popular datasets in machine learning and data science. It contains measurements of iris flowers from three different species:
@@ -30,7 +30,6 @@ The Iris dataset is one of the most popular datasets in machine learning and dat
 
 The dataset helps in understanding how flower characteristics differ among species.
 
----
 
 ## Technologies and Libraries Used
 The following Python libraries were used in this project:
@@ -44,7 +43,6 @@ The following Python libraries were used in this project:
 - **Seaborn**
   - For advanced and attractive statistical plots
 
----
 
 ## Steps Performed
 
@@ -81,7 +79,7 @@ A box plot was created to identify:
 - Possible outliers
 - Comparison between species
 
----
+
 
 ## Key Insights
 - Different iris species have clearly different petal and sepal measurements.
@@ -89,7 +87,7 @@ A box plot was created to identify:
 - Histograms helped understand feature distribution.
 - Box plots highlighted variations and possible outliers in the dataset.
 
----
+
 
 ## Conclusion
 This project provided practical experience in:
