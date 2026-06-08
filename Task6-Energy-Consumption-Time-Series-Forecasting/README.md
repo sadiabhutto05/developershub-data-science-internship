@@ -1,4 +1,4 @@
-Project Overview
+**Project Overview**
 
 This project forecasts household energy consumption using historical electricity usage data. Three forecasting models (ARIMA, Prophet, and XGBoost) were implemented and compared to determine the most effective approach for short-term energy prediction.
 
